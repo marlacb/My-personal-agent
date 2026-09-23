@@ -29,7 +29,7 @@ import java.util.Scanner;
                 do {
 
                     System.out.println("\n==============================");
-                    System.out.println("Olá! Eu sou " + agente.getNome());
+                    System.out.println("Oi! Eu sou " + agente.getNome());
                     System.out.println("==============================");
 
                     System.out.println("1 - Conversar com o agente");
